@@ -1,0 +1,8 @@
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\bin\Debug\SudokuTest2.exe.config
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\bin\Debug\SudokuTest2.exe
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\bin\Debug\SudokuTest2.pdb
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\obj\Debug\SudokuTest2.csproj.AssemblyReference.cache
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\obj\Debug\SudokuTest2.csproj.SuggestedBindingRedirects.cache
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\obj\Debug\SudokuTest2.csproj.CoreCompileInputs.cache
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\obj\Debug\SudokuTest2.exe
+D:\CoreMvc5Exercise\SudokuTest1\SudokuTest2\obj\Debug\SudokuTest2.pdb
